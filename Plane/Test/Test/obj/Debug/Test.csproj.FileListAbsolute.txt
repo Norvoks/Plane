@@ -1,0 +1,6 @@
+D:\Users\101-09\Documents\Norvoks\Plane\Test\Test\bin\Debug\Test.exe.config
+D:\Users\101-09\Documents\Norvoks\Plane\Test\Test\bin\Debug\Test.exe
+D:\Users\101-09\Documents\Norvoks\Plane\Test\Test\bin\Debug\Test.pdb
+D:\Users\101-09\Documents\Norvoks\Plane\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Users\101-09\Documents\Norvoks\Plane\Test\Test\obj\Debug\Test.exe
+D:\Users\101-09\Documents\Norvoks\Plane\Test\Test\obj\Debug\Test.pdb
